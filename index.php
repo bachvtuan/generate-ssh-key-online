@@ -91,6 +91,7 @@
 <head>
   <title>Generate SSH key online</title>
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+   <meta name="description" content="Generate ssh key online with custom name, bitlength and passpharase" />
   <style type="text/css">
 
   </style>
